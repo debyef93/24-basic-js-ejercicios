@@ -1,4 +1,4 @@
-var colors = ["rosa", "gris", "azul", "rojo"];
+var colors = ["rosa", "", "azul", "rojo"];
 
 console.log(colors[0]);
 console.log(colors[1]);
